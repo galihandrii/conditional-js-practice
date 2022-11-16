@@ -25,7 +25,7 @@ if ( merdeka >= 1945 ){
     console.log('gatau')
 }
 
-const nilai = 70
+const nilai = 59
 
 if (nilai > 80){
     console.log('Excellent')
